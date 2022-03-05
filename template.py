@@ -23,7 +23,7 @@ while running:
   # Draw a circle for fun
   pygame.draw.circle(screen, (0, 0, 255), (250, 250), 75)
 
-  # Make stuff disappear
+  # Make stuff appear
   pygame.display.flip()
 
 # When user quits
